@@ -2,7 +2,6 @@
 
 ** Nd*240126*Rr
 
-[REDACTED]
 
 ## Estructura del proyecto
 
