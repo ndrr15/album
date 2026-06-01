@@ -1,0 +1,9 @@
+users
+teams
+players
+collectibles
+user_collectibles
+matches
+standings
+achievements
+user_achievements
